@@ -10,7 +10,7 @@ Eesti bikes is a bicylce repair and accessories shop. On this project we are goi
 
 * Reservations or booking
 * purchase assoseries 
-* 
+
 
 
 
