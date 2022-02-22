@@ -3,11 +3,13 @@ import './App.css';
 import Home from './pages/Home';
 import Login from './pages/Login'
 import Signup from './pages/Signup'
-import Productinfo from './pages/Productinfo'
+import ProductList from './pages/ProductList'
 import Cart from './pages/Cart'
 
 
-import './styling/layout.css'
+import './style/layout.css'
+
+
 import {Route, BrowserRouter, Routes} from "react-router-dom"
 
 
@@ -20,7 +22,7 @@ function App() {
         <Route path='/' exact element={<Home/>}/>
         <Route path='/login' exact element={<Login/>}/>
         <Route path='/signup' exact element={<Signup/>}/>
-        <Route path='/productinfo' exact element={<Productinfo/>}/>
+        <Route path='/productList' exact element={<ProductList/>}/>
         <Route path='/cart' exact element={<Cart/>}/>
 
       </Routes>

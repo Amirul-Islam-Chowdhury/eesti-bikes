@@ -26,3 +26,8 @@
    
 
 }
+.registration-btn{
+    position:absolute;
+    background-color: rgb(193, 210, 241);
+    margin-top: 10px;
+}

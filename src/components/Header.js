@@ -32,11 +32,7 @@ function Header() {
                   Orders
                 </Link>
                 </li>
-              <li className="nav-item">
-                <Link className="nav-link" to="/">
-                  Logout
-                </Link>
-                </li>
+             
               <li className="nav-item">
                 <Link className="nav-link" to="/cart">
                   Cart
@@ -52,6 +48,11 @@ function Header() {
             
           </ul>
         </li>
+        <li className="nav-item">
+                <Link className="nav-link" to="/">
+                  Logout
+                </Link>
+                </li>
             </ul>
           </div>
         </div>

@@ -8,10 +8,11 @@ function Home() {
   return (
     <Layout>
         
-        <h1>Home</h1>
+        <h1>Home Page</h1>
+
         
         
-        <button  > Registration</button>
+        <button className='registration-btn'  > Registration</button>
 
     </Layout>
   )

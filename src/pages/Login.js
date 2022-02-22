@@ -10,6 +10,11 @@ function Login() {
         <input type="password" placeholder='Password'>
 
         </input>
+
+        <button type='submit'>
+         Sign Up
+
+    </button>
             
             
             </div>
