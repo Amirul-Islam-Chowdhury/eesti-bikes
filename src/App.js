@@ -8,6 +8,8 @@ import Cart from './pages/Cart'
 
 
 import './style/layout.css'
+import './style/home.css'
+import './style/signup.css'
 
 
 import {Route, BrowserRouter, Routes} from "react-router-dom"
