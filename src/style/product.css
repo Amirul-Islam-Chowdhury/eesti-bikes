@@ -1,0 +1,16 @@
+.product-img{
+    height: 200px;
+    width: 150px;
+align-content: center;
+
+}
+
+.row{
+    display: flex;
+    flex-direction: row;    
+}
+.product{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.row button{
+background: rgb(70, 125, 197);}

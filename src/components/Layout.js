@@ -12,16 +12,19 @@ function Layout(props) {
         <div className='content'>
             {props.children}
         </div>
-        {/* <Footer/> */}
+        
 
         <div>
-
+        
         </div>
+        
+
 
 
         
         
         </div>
+        
   )
 }
 
