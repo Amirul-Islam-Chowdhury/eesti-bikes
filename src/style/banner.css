@@ -1,0 +1,17 @@
+
+
+.carousel-inner{
+    padding: 10%;
+}
+
+    .carousel .carousel-item {
+        height: 350px;
+      }
+      
+      .carousel-item img {
+          position: absolute;
+          top: 0;
+          left: 0;
+          object-fit: fill;
+          max-height: 300px;
+      }

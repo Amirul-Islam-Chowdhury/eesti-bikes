@@ -9,6 +9,9 @@
     margin-left: 50px;
     
 }
+.content{
+    padding-top: 30px;
+}
 .nav-link{
     color: rgb(6, 148, 243) !important;
     font-size: 20px;
@@ -34,4 +37,13 @@
 }
 .heading {
     align-items: center;
+}
+.footer{
+    position: fixed;
+    padding: 10px 10px 0px 10px;
+    bottom: 0;
+    width: 100%;
+    /* Height of the footer*/ 
+    height: 40px;
+    background: rgb(107, 157, 231);
 }

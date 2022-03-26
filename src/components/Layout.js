@@ -17,6 +17,8 @@ function Layout(props) {
         <div>
         
         </div>
+
+        <Footer/>
         
 
 
